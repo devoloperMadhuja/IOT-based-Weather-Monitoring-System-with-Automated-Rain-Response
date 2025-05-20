@@ -15,8 +15,8 @@ This project is an **IoT-enabled weather monitoring system** built using **ESP82
 This project features a **custom web page dashboard** for **live sensor data monitoring**:  
 
 ### 🌍 Web Page - Real-Time Weather Detection  
-![Web Dashboard](media/web-dashboard.png)  
-
+![Web Dashboard]!![WhatsApp Image 2025-05-20 at 11 05 32_8858310d](https://github.com/user-attachments/assets/40742893-4b14-480d-920e-424baea0c3b5)
+[WhatsApp Image 2025-05-20 at 11 12 00_5d39a76e](https://github.com/user-attachments/assets/f2953f33-a64e-4f77-a7c4-556d028ca825)
 **Features:**  
 - **Displays temperature, humidity, rain percentage, and pressure readings**  
 - **Provides warnings for extreme heat (>40°C) and rain (>30%)**  
@@ -27,7 +27,8 @@ This project features a **custom web page dashboard** for **live sensor data mon
 ## 🎥 Servo Motor Demonstration  
 The servo motor **retracts and extends the clothes rope** based on detected rain levels:  
 
-▶️ **[Watch Demo Video](https://youtu.be/example-link)**  
+▶️ **[Watch Demo Video] https://github.com/user-attachments/assets/e840e166-5a72-4e65-9280-7f1b3952da6a**  
+
 
 Or, view the **GIF version** below:  
 ![Servo Motor Action](media/servo-demo.gif)  
