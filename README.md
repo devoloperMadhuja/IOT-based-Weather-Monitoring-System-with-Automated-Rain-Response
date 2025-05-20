@@ -16,7 +16,7 @@ This project features a **custom web page dashboard** for **live sensor data mon
 
 ### 🌍 Web Page - Real-Time Weather Detection  
 ## Web Dashboard - Metrics  
-(![WhatsApp Image 2025-05-20 at 11 05 32_1a1dc7b7](https://github.com/user-attachments/assets/a0e3361c-f773-4465-bbff-0239453290ac))
+(![WhatsApp Image 2025-05-20 at 11 05 32_1a1dc7b7](https://github.com/user-attachments/assets/a0e3361c-f773-4465-bbff-0239453290ac))    
 *Figure 1: Displays rainfall percentage, atmospheric pressure, temperature, and humidity.*  
 
 ## Web Dashboard - Rain Alert  
