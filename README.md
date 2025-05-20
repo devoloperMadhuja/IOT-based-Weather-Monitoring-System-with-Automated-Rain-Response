@@ -36,9 +36,6 @@ The servo motor **retracts and extends the clothes rope** based on detected rain
 ▶️ **[Watch Demo Video] https://github.com/user-attachments/assets/e840e166-5a72-4e65-9280-7f1b3952da6a**  
 
 
-Or, view the **GIF version** below:  
-![Servo Motor Action](media/servo-demo.gif)  
-
 ---
 
 ## 🛠️ Hardware Requirements  
