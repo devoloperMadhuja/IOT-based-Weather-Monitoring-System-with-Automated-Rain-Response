@@ -113,11 +113,6 @@ The servo motor **retracts and extends the clothes rope** based on detected rain
 
 ---
 
-## 📜 License  
-This project is licensed under **MIT License**. See [LICENSE](LICENSE) for details.  
-
----
-
 ## 🙌 Acknowledgments  
 - Built using **ESP8266 Web Server**  
 - Leveraging **IoT-based environmental monitoring systems**  
