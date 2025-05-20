@@ -15,10 +15,12 @@ This project is an **IoT-enabled weather monitoring system** built using **ESP82
 This project features a **custom web page dashboard** for **live sensor data monitoring**:  
 
 ### 🌍 Web Page - Real-Time Weather Detection  
+##![Web Dashboard - Metrics]!
 [WhatsApp Image 2025-05-20 at 11 05 32_f73fe2a4](https://github.com/user-attachments/assets/813281a6-96b3-4b06-a713-8994c7f76d10)
 
 *Figure 1: Displays rainfall percentage, atmospheric pressure, temperature and  humidity *
 
+##![Web Dashboard - Rain Alert]!
 [WhatsApp Image 2025-05-20 at 11 12 00_b3441353](https://github.com/user-attachments/assets/59285240-30f9-474b-959f-f5cc9c63b227)
 
 *Figure 2: Pop-up notification for heavy rain alert at 72% threshold.*
